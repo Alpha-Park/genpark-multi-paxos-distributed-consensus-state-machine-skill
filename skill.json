@@ -1,0 +1,13 @@
+{
+  "name": "genpark-multi-paxos-distributed-consensus-state-machine-skill",
+  "version": "1.0.0",
+  "description": "Multi-Paxos distributed consensus protocol with Phase 1 prepare/promise leader lease optimization, Phase 2 accept/commit log ordering, and log gap compaction.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "multi-paxos",
+    "consensus-protocol",
+    "distributed-systems",
+    "state-machine-replication"
+  ]
+}
